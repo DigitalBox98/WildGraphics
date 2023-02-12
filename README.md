@@ -1,5 +1,7 @@
 # WildGraphics newsletter (1994-1996)
 
+![WG Logo](img/wild-logo.png)
+
 ## TLDR;
 
 Wild Graphics was a project that aimed to explore the possibilities of graphic creation by combining manual painting techniques and those based on mathematical models. The goal was to show how the two approaches can complement each other and give rise to innovative and unique works of art.
