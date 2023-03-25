@@ -22,6 +22,6 @@ It covered, among other things, the following topics:
 - Books on virtual imagery/CGI
 - Object generators (e.g. Coil, Pyramid, Shelly, Twister, PickShell)
 
-The newsletter was edited by Nicolas Mougel, who was responsible for a large portion of the text, layout, editing, and printing. The newsletter was published from 1994 to 1996, with a total of 16 issues, and was created using both Amiga and PC computers. The newsletter aimed to be concise and informative, providing readers with a fresh perspective on the world of computer graphics.
+The newsletter was edited by [Nicolas Mougel](https://github.com/DigitalBox98), who was responsible for a large portion of the text, layout, editing, and printing. The newsletter was published from 1994 to 1996, with a total of 16 issues, and was created using both [Amiga](https://en.wikipedia.org/wiki/Amiga) and PC computers. The newsletter aimed to be concise and informative, providing readers with a fresh perspective on the world of computer graphics.
 
 Over the course of its publication, the newsletter covered topics such as object generators, American magazines, and new books on virtual imaging. Despite its conciseness, the newsletter also aspired to eventually feature more in-depth technical content, such as algorithms and mathematical formulas related to computer graphics and fractals.
